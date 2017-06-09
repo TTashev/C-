@@ -1,3 +1,5 @@
+//Write a function that calculates the Nth Fibonacci number. For this task, you are NOT allowed to use any type of loop.
+
 #include <iostream>
 #include <math.h>
 
